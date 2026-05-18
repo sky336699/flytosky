@@ -7,6 +7,10 @@ FlyToSky是一款内核为sing-box的vpn代理软件,
 
   节点设置 优选ip 功能,直接把 单一节点 一键变成 集群组(节点 右键菜单->优选ip)
 
+多语言支持:
+英语,德语,法语,日语,韩语,简体中文,繁体中文,意大利语,西班牙语,波兰语,葡萄牙语,俄语,泰语,印地语,越南语,波斯语
+English,Deutsch,Français,日本語,한국어,中文-简体,中文-繁體,Italiano,Español,Polski,Português,Русский,ภาษาไทย,हिन्दी,Tiếng Việt,فارسی
+
   ![Image text](https://github.com/sky336699/flytosky/blob/main/YouXuanIp.png)
 
   ![Image text](https://github.com/sky336699/flytosky/blob/main/FlyToSky.png)
