@@ -19,9 +19,11 @@ English,Deutsch,Français,日本語,한국어,中文-简体,中文-繁體,Italia
 
 ![Image text](https://github.com/sky336699/flytosky/blob/main/YouXuanIp2.png)
 
+![Image text](https://github.com/sky336699/flytosky/blob/main/FlyToSky601.png)
+
 ![Image text](https://github.com/sky336699/flytosky/blob/main/FlyToSky600.png)
 
-![Image text](https://github.com/sky336699/flytosky/blob/main/FlyToSky601.png)
+
 
 ![Image text](https://github.com/sky336699/flytosky/blob/main/bosi.png)
 
