@@ -13,7 +13,7 @@ FlyToSky是一款内核为sing-box的vpn代理软件,
 英语,德语,法语,日语,韩语,简体中文,繁体中文,意大利语,西班牙语,波兰语,葡萄牙语,俄语,泰语,印地语,越南语,波斯语
 English,Deutsch,Français,日本語,한국어,中文-简体,中文-繁體,Italiano,Español,Polski,Português,Русский,ภาษาไทย,हिन्दी,Tiếng Việt,فارسی
 
-使用flutter开发,无需安装.net,软件自身 + sing-box 压缩后37M,体积更小.
+使用flutter开发,无需安装.net,体积更小.
 
 ![Image text](https://github.com/sky336699/flytosky/blob/main/FlyToSky0.png)
 
