@@ -15,6 +15,8 @@ English,Deutsch,Français,日本語,한국어,中文-简体,中文-繁體,Italia
 
 使用flutter开发,无需安装.net,体积更小.
 
+安卓版本:https://github.com/sky336699/flytosky_mobile/releases
+
 ![Image text](https://github.com/sky336699/flytosky/blob/main/FlyToSky0.png)
 
 ![Image text](https://github.com/sky336699/flytosky/blob/main/YouXuanIp2.png)
