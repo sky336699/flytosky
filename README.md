@@ -34,4 +34,11 @@ English,Deutsch,Français,日本語,한국어,中文-简体,中文-繁體,Italia
 
   ![Image text](https://github.com/sky336699/flytosky/blob/main/FlyToSky.png)
 
+  <p align="center">
+  <img src="https://github.com/sky336699/flytosky_mobile/blob/main/pic3.png" width="500">
+  <img src="https://github.com/sky336699/flytosky_mobile/blob/main/pic1.png" width="500">
+  <img src="https://github.com/sky336699/flytosky_mobile/blob/main/pic2.png" width="500">
+  
+</p>
+
 软件不会收集用户信息,崩溃日志选用sentry.io,数据存于美国,并且sentry.io的dns解析与日志流量均走本地的代理流量,无流量特征.
