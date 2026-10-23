@@ -3,7 +3,7 @@
 FlyToSky是一款内核为sing-box的vpn代理软件,
 
 支持的协议:
-  vless协议,vmess协议,tuic协议,Shadowsocks协议.支持ECH
+  vless协议,vmess协议,tuic协议,Shadowsocks协议.支持ECH,内置 cf自动筛选ip 功能
 
   支持 链式代理(入口节点 可以是一个带 多个优选ip的集群,使链路更稳定)(设置方式:1.在节点右键菜单中的 优选ip 中添加cf的ip 2.把这个节点加入链式代理的节点中并设为入口节点)
 
