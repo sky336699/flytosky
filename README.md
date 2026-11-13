@@ -18,6 +18,11 @@ English,Deutsch,Français,日本語,한국어,中文-简体,中文-繁體,Italia
 桌面版本:https://github.com/sky336699/flytosky/releases <br/>
 安卓版本:https://github.com/sky336699/flytosky_mobile/releases
 
+
+https://github.com/user-attachments/assets/e727f997-487a-4269-88cc-d65abab8c192
+
+
+
 ![Image text](https://github.com/sky336699/flytosky/blob/main/FlyToSky0.png)
 
 ![Image text](https://github.com/sky336699/flytosky/blob/main/YouXuanIp2.png)
@@ -25,6 +30,10 @@ English,Deutsch,Français,日本語,한국어,中文-简体,中文-繁體,Italia
 ![Image text](https://github.com/sky336699/flytosky/blob/main/FlyToSky601.png)
 
 ![Image text](https://github.com/sky336699/flytosky/blob/main/FlyToSky600.png)
+
+
+
+
 
 
 
